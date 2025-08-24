@@ -1,105 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-05-06T09:22:57-07:00</updated><id>/feed.xml</id><title type="html">Sam Sharps</title><entry><title type="html">My Espresso Equipment</title><link href="/2022/05/03/espresso.html" rel="alternate" type="text/html" title="My Espresso Equipment" /><published>2022-05-03T01:00:00-07:00</published><updated>2022-05-03T01:00:00-07:00</updated><id>/2022/05/03/espresso</id><content type="html" xml:base="/2022/05/03/espresso.html">&lt;div class=&quot;responsive-container&quot; style=&quot;padding-bottom: calc((4000/6000)*100%);&quot;&gt;
-&lt;img src=&quot;/assets/espresso/all.webp&quot; alt=&quot;All Equipment&quot; width=&quot;100%&quot; padding-bottom=&quot;50%&quot; /&gt;
-&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-08-23T20:27:16-07:00</updated><id>/feed.xml</id><title type="html">Sam Sharps</title><entry><title type="html">My Espresso Equipment</title><link href="/2022/05/03/espresso.html" rel="alternate" type="text/html" title="My Espresso Equipment" /><published>2022-05-03T01:00:00-07:00</published><updated>2022-05-03T01:00:00-07:00</updated><id>/2022/05/03/espresso</id><content type="html" xml:base="/2022/05/03/espresso.html"><![CDATA[<div class="responsive-container" style="padding-bottom: calc((4000/6000)*100%);">
+<img src="/assets/espresso/all.webp" alt="All Equipment" width="100%" padding-bottom="50%" />
+</div>
 
-&lt;p&gt;For a few years I’ve been visiting nice coffee shops and ordering espresso based drinks, but I never appreciated or understood much about how they were made. At home I would do a pour over to prepare coffee. In 2021 I decided to start making Espresso at home after I tried to convince my friend to get stuff for pour overs and he said naw and said he was going to get an espresso machine instead. So I did the same and here we are.&lt;/p&gt;
+<p>For a few years I’ve been visiting nice coffee shops and ordering espresso based drinks, but I never appreciated or understood much about how they were made. At home I would do a pour over to prepare coffee. In 2021 I decided to start making Espresso at home after I tried to convince my friend to get stuff for pour overs and he said naw and said he was going to get an espresso machine instead. So I did the same and here we are.</p>
 
-&lt;h2 id=&quot;niche-zero-grinder&quot;&gt;Niche Zero Grinder&lt;/h2&gt;
+<h2 id="niche-zero-grinder">Niche Zero Grinder</h2>
 
-&lt;div class=&quot;responsive-container&quot; style=&quot;padding-bottom: calc((4000/6000)*100%);&quot;&gt;
-&lt;img src=&quot;/assets/espresso/niche-zero.webp&quot; alt=&quot;Niche Zero&quot; style=&quot;zoom:100%;&quot; /&gt;
-&lt;/div&gt;
+<div class="responsive-container" style="padding-bottom: calc((4000/6000)*100%);">
+<img src="/assets/espresso/niche-zero.webp" alt="Niche Zero" style="zoom:100%;" />
+</div>
 
-&lt;p&gt;The Niche Zero grinder is a minimalist, single dosing, espresso grinder. I love that it has no lights or display, the only button is a single on/off switch, and that the hopper is designed for single dosing. I generally am preparing coffee two drinks, one for me and one for my girlfriend Jessica, at most once a day, so a large hopper was unattractive to me. I also like to weigh the beans for consistency, so any controls other than an on/off button would just be extra things I don’t use. The Niche Zero was perfect in this respect and I’m very happy with it.&lt;/p&gt;
+<p>The Niche Zero grinder is a minimalist, single dosing, espresso grinder. I love that it has no lights or display, the only button is a single on/off switch, and that the hopper is designed for single dosing. I generally am preparing coffee two drinks, one for me and one for my girlfriend Jessica, at most once a day, so a large hopper was unattractive to me. I also like to weigh the beans for consistency, so any controls other than an on/off button would just be extra things I don’t use. The Niche Zero was perfect in this respect and I’m very happy with it.</p>
 
-&lt;h2 id=&quot;gaggia-classic-with-mrshades-pid-and-9-bar-opv&quot;&gt;Gaggia Classic (with MrShades PID and 9 bar OPV)&lt;/h2&gt;
+<h2 id="gaggia-classic-with-mrshades-pid-and-9-bar-opv">Gaggia Classic (with MrShades PID and 9 bar OPV)</h2>
 
-&lt;div class=&quot;responsive-container&quot; style=&quot;padding-bottom: calc((4000/6000)*100%);&quot;&gt;
-&lt;img src=&quot;/assets/espresso/gaggia.webp&quot; alt=&quot;Gaggia Classic&quot; style=&quot;zoom:100%;&quot; /&gt;
-&lt;/div&gt;
+<div class="responsive-container" style="padding-bottom: calc((4000/6000)*100%);">
+<img src="/assets/espresso/gaggia.webp" alt="Gaggia Classic" style="zoom:100%;" />
+</div>
 
-&lt;p&gt;The Gaggia Classic is a relatively inexpensive machine, with simple controls, and is easy to modify. Out of the box it has poor temperature stability and inconsistent steam pressure. I found that temperature surfing the steam wand worked well, but was tedious to do everytime. I opted to add a PID controller from Mr Shades of Coffee which gives it better brew temperature stability and much higher, and more stable, steam pressure.&lt;/p&gt;
+<p>The Gaggia Classic is a relatively inexpensive machine, with simple controls, and is easy to modify. Out of the box it has poor temperature stability and inconsistent steam pressure. I found that temperature surfing the steam wand worked well, but was tedious to do everytime. I opted to add a PID controller from Mr Shades of Coffee which gives it better brew temperature stability and much higher, and more stable, steam pressure.</p>
 
-&lt;h2 id=&quot;acaia-lunar-scale&quot;&gt;Acaia Lunar Scale&lt;/h2&gt;
+<h2 id="acaia-lunar-scale">Acaia Lunar Scale</h2>
 
-&lt;div class=&quot;responsive-container&quot; style=&quot;padding-bottom: calc((2887/5984)*100%);&quot;&gt;
-&lt;img src=&quot;/assets/espresso/acacia.webp&quot; alt=&quot;Acacia Scale&quot; style=&quot;zoom:100%;&quot; /&gt;
-&lt;/div&gt;
+<div class="responsive-container" style="padding-bottom: calc((2887/5984)*100%);">
+<img src="/assets/espresso/acacia.webp" alt="Acacia Scale" style="zoom:100%;" />
+</div>
 
-&lt;p&gt;This scale is kind of expensive, but I find it aesthetically pleasing. I like that it has a timer, is precise, responds to weight changes quickly, and is small enough to measure liquid out while pulling a shot. It’s also relatively water resistant which is nice when channeling sprays coffee all over it.&lt;/p&gt;
+<p>This scale is kind of expensive, but I find it aesthetically pleasing. I like that it has a timer, is precise, responds to weight changes quickly, and is small enough to measure liquid out while pulling a shot. It’s also relatively water resistant which is nice when channeling sprays coffee all over it.</p>
 
-&lt;h2 id=&quot;mr-shades-bottomless-portafilter-with-wooden-handle&quot;&gt;Mr Shades Bottomless Portafilter with Wooden Handle&lt;/h2&gt;
+<h2 id="mr-shades-bottomless-portafilter-with-wooden-handle">Mr Shades Bottomless Portafilter with Wooden Handle</h2>
 
-&lt;div class=&quot;responsive-container&quot; style=&quot;padding-bottom: calc((4000/6000)*100%);&quot;&gt;
-&lt;img src=&quot;/assets/espresso/portafilter.webp&quot; alt=&quot;Portafilter&quot; style=&quot;zoom:100%;&quot; /&gt;
-&lt;/div&gt;
+<div class="responsive-container" style="padding-bottom: calc((4000/6000)*100%);">
+<img src="/assets/espresso/portafilter.webp" alt="Portafilter" style="zoom:100%;" />
+</div>
 
-&lt;p&gt;I wanted a bottomless portafilter so I could more easily observe channeling, and also to enjoy the beautiful espresso flowing out. I chose a wooden handle just because I don’t like the pastic handle on the stock portafilter.&lt;/p&gt;
+<p>I wanted a bottomless portafilter so I could more easily observe channeling, and also to enjoy the beautiful espresso flowing out. I chose a wooden handle just because I don’t like the pastic handle on the stock portafilter.</p>
 
-&lt;h2 id=&quot;58mm-18g-vst-basket&quot;&gt;58mm 18g VST Basket&lt;/h2&gt;
+<h2 id="58mm-18g-vst-basket">58mm 18g VST Basket</h2>
 
-&lt;div class=&quot;responsive-container&quot; style=&quot;padding-bottom: calc((4000/6000)*100%);&quot;&gt;
-&lt;img src=&quot;/assets/espresso/vst.webp&quot; alt=&quot;VST Basket&quot; style=&quot;zoom:100%;&quot; /&gt;
-&lt;/div&gt;
+<div class="responsive-container" style="padding-bottom: calc((4000/6000)*100%);">
+<img src="/assets/espresso/vst.webp" alt="VST Basket" style="zoom:100%;" />
+</div>
 
-&lt;p&gt;The Gaggia Classic comes with some stock baskets and everyone online says they are bad. I had a very hard time getting consistent shot timings with the stock basket. I would pull one shot and it’d be faster than I wanted, and then the next would be slower. After switching to the VST basket, my shot timings were much more consistent.&lt;/p&gt;
+<p>The Gaggia Classic comes with some stock baskets and everyone online says they are bad. I had a very hard time getting consistent shot timings with the stock basket. I would pull one shot and it’d be faster than I wanted, and then the next would be slower. After switching to the VST basket, my shot timings were much more consistent.</p>
 
-&lt;h2 id=&quot;alsainté-espresso-tamper--distributor&quot;&gt;ALSAINTÉ Espresso Tamper &amp;amp; Distributor&lt;/h2&gt;
+<h2 id="alsainté-espresso-tamper--distributor">ALSAINTÉ Espresso Tamper &amp; Distributor</h2>
 
-&lt;div class=&quot;responsive-container&quot; style=&quot;padding-bottom: calc((2668/5983)*100%);&quot;&gt;
-&lt;img src=&quot;/assets/espresso/alsainte.webp&quot; alt=&quot;Tamp and leveler&quot; style=&quot;zoom:100%;&quot; /&gt;
-&lt;/div&gt;
+<div class="responsive-container" style="padding-bottom: calc((2668/5983)*100%);">
+<img src="/assets/espresso/alsainte.webp" alt="Tamp and leveler" style="zoom:100%;" />
+</div>
 
-&lt;p&gt;I initially used a normal looking 58.5mm tamper but occasionally had inconsistency in my shots, that I believed had to do with my puck preparation. I bought a WDT distribution tool, tried grinding directly into the portafilter with a funnel, used a distributor tool, a different tamper style, and combinations of all of these things in search of greater consistency. I ended up finding that with my setup I could get more consistent taste and shot time if I just used a distributor and a tamper that always tamps perfectly level and to a pre-set depth. This tool has both, fits my basket very nicely, and looks great.&lt;/p&gt;</content><author><name></name></author><summary type="html">For a few years I’ve been visiting nice coffee shops and ordering espresso based drinks, but I never appreciated or understood much about how they were made. At home I would do a pour over to prepare coffee. In 2021 I decided to start making Espresso at home after I tried to convince my friend to get stuff for pour overs and he said naw and said he was going to get an espresso machine instead. So I did the same and here we are. Niche Zero Grinder The Niche Zero grinder is a minimalist, single dosing, espresso grinder. I love that it has no lights or display, the only button is a single on/off switch, and that the hopper is designed for single dosing. I generally am preparing coffee two drinks, one for me and one for my girlfriend Jessica, at most once a day, so a large hopper was unattractive to me. I also like to weigh the beans for consistency, so any controls other than an on/off button would just be extra things I don’t use. The Niche Zero was perfect in this respect and I’m very happy with it. Gaggia Classic (with MrShades PID and 9 bar OPV) The Gaggia Classic is a relatively inexpensive machine, with simple controls, and is easy to modify. Out of the box it has poor temperature stability and inconsistent steam pressure. I found that temperature surfing the steam wand worked well, but was tedious to do everytime. I opted to add a PID controller from Mr Shades of Coffee which gives it better brew temperature stability and much higher, and more stable, steam pressure. Acaia Lunar Scale This scale is kind of expensive, but I find it aesthetically pleasing. I like that it has a timer, is precise, responds to weight changes quickly, and is small enough to measure liquid out while pulling a shot. It’s also relatively water resistant which is nice when channeling sprays coffee all over it. Mr Shades Bottomless Portafilter with Wooden Handle I wanted a bottomless portafilter so I could more easily observe channeling, and also to enjoy the beautiful espresso flowing out. I chose a wooden handle just because I don’t like the pastic handle on the stock portafilter. 58mm 18g VST Basket The Gaggia Classic comes with some stock baskets and everyone online says they are bad. I had a very hard time getting consistent shot timings with the stock basket. I would pull one shot and it’d be faster than I wanted, and then the next would be slower. After switching to the VST basket, my shot timings were much more consistent. ALSAINTÉ Espresso Tamper &amp;amp; Distributor I initially used a normal looking 58.5mm tamper but occasionally had inconsistency in my shots, that I believed had to do with my puck preparation. I bought a WDT distribution tool, tried grinding directly into the portafilter with a funnel, used a distributor tool, a different tamper style, and combinations of all of these things in search of greater consistency. I ended up finding that with my setup I could get more consistent taste and shot time if I just used a distributor and a tamper that always tamps perfectly level and to a pre-set depth. This tool has both, fits my basket very nicely, and looks great.</summary></entry><entry><title type="html">My Work Desk</title><link href="/2022/04/15/work.html" rel="alternate" type="text/html" title="My Work Desk" /><published>2022-04-15T00:00:00-07:00</published><updated>2022-04-15T00:00:00-07:00</updated><id>/2022/04/15/work</id><content type="html" xml:base="/2022/04/15/work.html">&lt;div class=&quot;responsive-container&quot; style=&quot;padding-bottom: calc((4000/6000)*100%);&quot;&gt;
-&lt;img src=&quot;/assets/work-desk/desk-view.webp&quot; alt=&quot;Desk View&quot; style=&quot;zoom:100%;&quot; /&gt;
-&lt;/div&gt;
+<p>I initially used a normal looking 58.5mm tamper but occasionally had inconsistency in my shots, that I believed had to do with my puck preparation. I bought a WDT distribution tool, tried grinding directly into the portafilter with a funnel, used a distributor tool, a different tamper style, and combinations of all of these things in search of greater consistency. I ended up finding that with my setup I could get more consistent taste and shot time if I just used a distributor and a tamper that always tamps perfectly level and to a pre-set depth. This tool has both, fits my basket very nicely, and looks great.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Things I use to prepare Espresso drinks.]]></summary></entry><entry><title type="html">My Work Desk</title><link href="/2022/04/15/work.html" rel="alternate" type="text/html" title="My Work Desk" /><published>2022-04-15T00:00:00-07:00</published><updated>2022-04-15T00:00:00-07:00</updated><id>/2022/04/15/work</id><content type="html" xml:base="/2022/04/15/work.html"><![CDATA[<div class="responsive-container" style="padding-bottom: calc((4000/6000)*100%);">
+<img src="/assets/work-desk/desk-view.webp" alt="Desk View" style="zoom:100%;" />
+</div>
 
-&lt;p&gt;At home I have a work desk for when I work from home, or work on personal projects. When I sit down at my desk, I sit in front of my two monitors, keyboard, mouse, and empty space on the desk. This minimalist aestheic is pleasing to me, and I like not seeing any wires, monitor stands, or other things on the desk. I also like having plenty of space so that if I do need something else on the desk, it remains spacious.&lt;/p&gt;
+<p>At home I have a work desk for when I work from home, or work on personal projects. When I sit down at my desk, I sit in front of my two monitors, keyboard, mouse, and empty space on the desk. This minimalist aestheic is pleasing to me, and I like not seeing any wires, monitor stands, or other things on the desk. I also like having plenty of space so that if I do need something else on the desk, it remains spacious.</p>
 
-&lt;p&gt;Let’s start with what I interact with the most which are my monitors, keyboard, and mouse.&lt;/p&gt;
+<p>Let’s start with what I interact with the most which are my monitors, keyboard, and mouse.</p>
 
-&lt;h2 id=&quot;lg-5k-and-dell-4k-monitors&quot;&gt;LG 5k and Dell 4k Monitors&lt;/h2&gt;
+<h2 id="lg-5k-and-dell-4k-monitors">LG 5k and Dell 4k Monitors</h2>
 
-&lt;p&gt;I use an LG 5k as my main display and a Dell 4k display as my secondary display. In my opinion, high pixel density is a real luxury when looking at text. I find it much more comfortable to look at displays where your naked eye can’t tell that it’s made up of pixels and to me, this is only true of displays with a similar pixel density to Apple retina displays. The LG 5k hits that pixel density and is very comfortable to look at. The 4k display is pretty good, but you can still see the pixels with a naked eye. I wish it was another 5k display, but it hasn’t been a big enough deal to me to replace it since it’s off to the side and I don’t look at it as often.&lt;/p&gt;
+<p>I use an LG 5k as my main display and a Dell 4k display as my secondary display. In my opinion, high pixel density is a real luxury when looking at text. I find it much more comfortable to look at displays where your naked eye can’t tell that it’s made up of pixels and to me, this is only true of displays with a similar pixel density to Apple retina displays. The LG 5k hits that pixel density and is very comfortable to look at. The 4k display is pretty good, but you can still see the pixels with a naked eye. I wish it was another 5k display, but it hasn’t been a big enough deal to me to replace it since it’s off to the side and I don’t look at it as often.</p>
 
-&lt;p&gt;I have the displays mounted on monitor arms with one display directly in front of me, and another to the side. I prefer the monitor arms over the included stands, because I like how it looks as though my displays are just floating in front of me. Having two monitors provides me great flexibility when I work because I can keep notes or a web browser on the second display, and on the main display have whatever application I’m primarily focused on. I also sometimes use different computers on the different displays and use a KVM switch to move my keyboard and mouse between the computers.&lt;/p&gt;
+<p>I have the displays mounted on monitor arms with one display directly in front of me, and another to the side. I prefer the monitor arms over the included stands, because I like how it looks as though my displays are just floating in front of me. Having two monitors provides me great flexibility when I work because I can keep notes or a web browser on the second display, and on the main display have whatever application I’m primarily focused on. I also sometimes use different computers on the different displays and use a KVM switch to move my keyboard and mouse between the computers.</p>
 
-&lt;h2 id=&quot;kinesis-advantage-and-evoluent-vertical-mouse&quot;&gt;Kinesis Advantage and Evoluent Vertical Mouse&lt;/h2&gt;
+<h2 id="kinesis-advantage-and-evoluent-vertical-mouse">Kinesis Advantage and Evoluent Vertical Mouse</h2>
 
-&lt;p&gt;I have used the Kinesis Advantage keyboard for a few years now and am a big fan of it. It’s more challenging than other split keyboards to get used to mostly because certain keys like CTRL, Backspace, and others are under your thumbs instead of under your pinkies. It took me about a week after switching to be comfortable on it, and since then I’ve been a big fan. To me it’s just far more comfortable than any other keyboard. I wasn’t looking to increase my typing speed or anything like that, just more comfort and it satisfied that. I haven’t found another keyboard that has key wells and thumb islands, so until then I’ll probably be using this keyboard. My main complaint would be that it is big and annoying to travel with.&lt;/p&gt;
+<p>I have used the Kinesis Advantage keyboard for a few years now and am a big fan of it. It’s more challenging than other split keyboards to get used to mostly because certain keys like CTRL, Backspace, and others are under your thumbs instead of under your pinkies. It took me about a week after switching to be comfortable on it, and since then I’ve been a big fan. To me it’s just far more comfortable than any other keyboard. I wasn’t looking to increase my typing speed or anything like that, just more comfort and it satisfied that. I haven’t found another keyboard that has key wells and thumb islands, so until then I’ll probably be using this keyboard. My main complaint would be that it is big and annoying to travel with.</p>
 
-&lt;p&gt;For my mouse, I use an Evoluent Vertical mouse. It’s large, comfortable, and easy to rest your hand on. Other than that, there’s not much else to say.&lt;/p&gt;
+<p>For my mouse, I use an Evoluent Vertical mouse. It’s large, comfortable, and easy to rest your hand on. Other than that, there’s not much else to say.</p>
 
-&lt;h2 id=&quot;jarvis-plywood-standing-desk&quot;&gt;Jarvis Plywood Standing Desk&lt;/h2&gt;
+<h2 id="jarvis-plywood-standing-desk">Jarvis Plywood Standing Desk</h2>
 
-&lt;p&gt;For many years I’ve used a desks with configurable heights both at home and in the office. I’ve used both Uplift and Jarvis desks, and they’re practically the same. I really enjoy being able to sometimes stand during the day. I generally still sit for the majority of the day, but I sometimes like to stand when reading, during meetings, or when doing other things that don’t require intense focus. The other thing I really appreciate is setting the sitting height to exactly what I want it to be.&lt;/p&gt;
+<p>For many years I’ve used a desks with configurable heights both at home and in the office. I’ve used both Uplift and Jarvis desks, and they’re practically the same. I really enjoy being able to sometimes stand during the day. I generally still sit for the majority of the day, but I sometimes like to stand when reading, during meetings, or when doing other things that don’t require intense focus. The other thing I really appreciate is setting the sitting height to exactly what I want it to be.</p>
 
-&lt;p&gt;For the desk top, I chose a blue plywood because I like the color blue against the white legs of the desk, and I love seeing the plies of Plywood. I’ve skateboarded most of my life, skateboard decks are very distinctly plywood, and it reminds me of that.&lt;/p&gt;
+<p>For the desk top, I chose a blue plywood because I like the color blue against the white legs of the desk, and I love seeing the plies of Plywood. I’ve skateboarded most of my life, skateboard decks are very distinctly plywood, and it reminds me of that.</p>
 
-&lt;p&gt;Now I’ll talk about the things that are on our around my desk that are usually hidden from view.&lt;/p&gt;
+<p>Now I’ll talk about the things that are on our around my desk that are usually hidden from view.</p>
 
-&lt;h2 id=&quot;fuji-xt-2-as-a-webcam&quot;&gt;Fuji XT-2 as a Webcam&lt;/h2&gt;
+<h2 id="fuji-xt-2-as-a-webcam">Fuji XT-2 as a Webcam</h2>
 
-&lt;p&gt;At some point during 2020 a coworker showed up to a meeting with a way higher quality video than everyone else. Turns out he was using a nice camera as his webcam. I decided to do the same because I also had a nice camera sitting around. I use a fake battery that plugs into an outlet, a mini HDMI to HDMI cable, and Elgato CamLink 4k to connect my Fuji XT-2 as a webcam to whichever computer is connected to my primary display. I initially didn’t have an Elgato CamLink and instead used Fuji’s software that turns your camera into a webcam, but the software had poor video quality, weird aspect ratios, and was tedious to use on macOS. I’ve found the Elgato CamLink to be better in every respect.&lt;/p&gt;
+<p>At some point during 2020 a coworker showed up to a meeting with a way higher quality video than everyone else. Turns out he was using a nice camera as his webcam. I decided to do the same because I also had a nice camera sitting around. I use a fake battery that plugs into an outlet, a mini HDMI to HDMI cable, and Elgato CamLink 4k to connect my Fuji XT-2 as a webcam to whichever computer is connected to my primary display. I initially didn’t have an Elgato CamLink and instead used Fuji’s software that turns your camera into a webcam, but the software had poor video quality, weird aspect ratios, and was tedious to use on macOS. I’ve found the Elgato CamLink to be better in every respect.</p>
 
-&lt;p&gt;I mount the camera on a monitor arm and hide it behind my primary display. When I want to use it, I lift it up from behind my display, turn it on, and I’m ready to go.&lt;/p&gt;
+<p>I mount the camera on a monitor arm and hide it behind my primary display. When I want to use it, I lift it up from behind my display, turn it on, and I’m ready to go.</p>
 
-&lt;h2 id=&quot;sennheiser-game-one-open-back-headphones-with-mic&quot;&gt;Sennheiser Game One Open Back Headphones with Mic&lt;/h2&gt;
+<h2 id="sennheiser-game-one-open-back-headphones-with-mic">Sennheiser Game One Open Back Headphones with Mic</h2>
 
-&lt;p&gt;I don’t really like how these headphones look, but they’re quite comfortable, and the builtin mic works well. The things I like most about them is how they’re open back, have a mic, and are light. Open back headphones feel very natural when talking since you can hear yourself, and other peoples voices also sound very natural throught them. To me, it feels as close to not wearing headphones as possible. If I could find a way to not wear headphones, not have feedback issues, and not have to position myself close to a mic, I’d probably switch to that. Until then, these are the closest I’ve found.&lt;/p&gt;
+<p>I don’t really like how these headphones look, but they’re quite comfortable, and the builtin mic works well. The things I like most about them is how they’re open back, have a mic, and are light. Open back headphones feel very natural when talking since you can hear yourself, and other peoples voices also sound very natural throught them. To me, it feels as close to not wearing headphones as possible. If I could find a way to not wear headphones, not have feedback issues, and not have to position myself close to a mic, I’d probably switch to that. Until then, these are the closest I’ve found.</p>
 
-&lt;h2 id=&quot;16-macbook-pro-with-m1-max&quot;&gt;16” Macbook Pro with M1 Max&lt;/h2&gt;
+<h2 id="16-macbook-pro-with-m1-max">16” Macbook Pro with M1 Max</h2>
 
-&lt;p&gt;I have two 16” Macbook Pros with the M1 Max. One is personal and one is for work. They both sit in vertical stands behind my secondary monitor. I’m surprised how much I like this computer. I’m still amazed how much faster, quieter, and longer the battery life is than the Intel machines and it still blows my mind that there is such a difference.&lt;/p&gt;
+<p>I have two 16” Macbook Pros with the M1 Max. One is personal and one is for work. They both sit in vertical stands behind my secondary monitor. I’m surprised how much I like this computer. I’m still amazed how much faster, quieter, and longer the battery life is than the Intel machines and it still blows my mind that there is such a difference.</p>
 
-&lt;p&gt;I love not hearing fans ever, I love everything being fast, and I love being able to take it places and not having the battery rapidly drain just because I’m using a web browser.&lt;/p&gt;
+<p>I love not hearing fans ever, I love everything being fast, and I love being able to take it places and not having the battery rapidly drain just because I’m using a web browser.</p>
 
-&lt;h2 id=&quot;homepod-mini&quot;&gt;Homepod Mini&lt;/h2&gt;
+<h2 id="homepod-mini">Homepod Mini</h2>
 
-&lt;p&gt;I keep a Homepod Mini on my desk behind my monitor. I use it to control the lights and make phone calls with it. I also occasionally use it for music since it’s convenient, but I have nicer speakers elsewhere in the room so if I care enough I use those instead.&lt;/p&gt;
+<p>I keep a Homepod Mini on my desk behind my monitor. I use it to control the lights and make phone calls with it. I also occasionally use it for music since it’s convenient, but I have nicer speakers elsewhere in the room so if I care enough I use those instead.</p>
 
-&lt;h2 id=&quot;connectpro-ur-12kit-2-port-usb-vga-kvm-switch-wddm&quot;&gt;ConnectPRO UR-12+KIT, 2-port USB VGA KVM Switch W/DDM&lt;/h2&gt;
+<h2 id="connectpro-ur-12kit-2-port-usb-vga-kvm-switch-wddm">ConnectPRO UR-12+KIT, 2-port USB VGA KVM Switch W/DDM</h2>
 
-&lt;p&gt;I often use multiple computers for work, and like to be able to the same keyboard and mouse to control both. I used to use a USB switch to move my mouse and keyboard between the computers, but it was always slow and occasionally didn’t work. Everytime you press the button on the USB switch, one computer sees the peripherals disconnect and the other one sees the peripherals connect. If the peripherals don’t initialize correctly for whatever reason, then they don’t work. And even if it does work, there’s a substantial delay waiting for the devices to initialize. Applications also sometimes behave weirdly when the peripherals disappear and reappear often.&lt;/p&gt;
+<p>I often use multiple computers for work, and like to be able to the same keyboard and mouse to control both. I used to use a USB switch to move my mouse and keyboard between the computers, but it was always slow and occasionally didn’t work. Everytime you press the button on the USB switch, one computer sees the peripherals disconnect and the other one sees the peripherals connect. If the peripherals don’t initialize correctly for whatever reason, then they don’t work. And even if it does work, there’s a substantial delay waiting for the devices to initialize. Applications also sometimes behave weirdly when the peripherals disappear and reappear often.</p>
 
-&lt;p&gt;Then I found this ConnectPRO KVM. It does some magic to make it appear to the computer that a mouse and keyboard are always connected, makes it appear to the peripherals that they are always connected to a computer. Nothing needs to reinitialize, and the device just switches which computer the physical peripherals are controlling at any point. The switching is nearly instantaneous and can be triggered with a key combination. I press “ALT-1” to control one computer, and “ALT-2” to control the other. It’s a wonderful to use, and that’s saying a lot for a KVM. It does look like a device that belongs in a datacenter, but that’s why I keep it hidden from view in a box with other cables towards the back of the desk.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+<p>Then I found this ConnectPRO KVM. It does some magic to make it appear to the computer that a mouse and keyboard are always connected, makes it appear to the peripherals that they are always connected to a computer. Nothing needs to reinitialize, and the device just switches which computer the physical peripherals are controlling at any point. The switching is nearly instantaneous and can be triggered with a key combination. I press “ALT-1” to control one computer, and “ALT-2” to control the other. It’s a wonderful to use, and that’s saying a lot for a KVM. It does look like a device that belongs in a datacenter, but that’s why I keep it hidden from view in a box with other cables towards the back of the desk.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[How I set up my work desk at home.]]></summary></entry></feed>
